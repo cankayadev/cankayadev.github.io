@@ -17,6 +17,114 @@ categories: []
 tags: []
 ---
 ---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
+title: 
+date: 
+categories: []
+tags: []
+---
+---
 title: Why writing a small standard library might be a good idea.
 date: 09=07-2024
 tags: [C,programming,42]
